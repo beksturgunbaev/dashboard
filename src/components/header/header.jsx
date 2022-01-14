@@ -1,10 +1,9 @@
 import React from "react";
-import Button from '@mui/material/Button';
 
 const Header = function() {
     return (
         <header className="flex-1">
-            <Button variant="contained">Hello World</Button>
+            <div className="text-green-600 text-3xl font-bold">Header</div>
         </header>
     );
 }
