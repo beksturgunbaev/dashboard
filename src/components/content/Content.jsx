@@ -3,7 +3,7 @@ import Header from "../header/header";
 
 const Content = function() {
     return(
-        <div className="">
+        <div className="w-full">
             < Header />
         </div>
     )

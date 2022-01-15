@@ -1,6 +1,5 @@
 import React from "react";
-import { Home, TrendingUp, Category, Group, Paid, Report, Settings, LocalPostOffice, QuestionAnswer, SwapCalls, ArrowBack } 
-from '@mui/icons-material';
+import { Home, TrendingUp, Category, Group, Paid, Report, Settings, LocalPostOffice, QuestionAnswer, SwapCalls, ArrowBack } from '@mui/icons-material';
 
 const Sidebar = function() {
     return (
