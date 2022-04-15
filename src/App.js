@@ -4,7 +4,7 @@ import Sidebar from './components/sidebar/Sidebar';
 
 function App() {
   return (
-    <div className="flex text-red-700">
+    <div className="flex">
       < Sidebar />
       < Content />
     </div>
