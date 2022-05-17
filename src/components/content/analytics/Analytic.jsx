@@ -1,6 +1,6 @@
-import React from 'react'
+import React from 'react';
 
-const Analytics = function() {
+const Analytic = function() {
     return (
         <div>
             <h1>Analytics</h1>
@@ -8,4 +8,4 @@ const Analytics = function() {
     )
 }
 
-export default Analytics;
+export default Analytic;
