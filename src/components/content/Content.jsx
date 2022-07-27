@@ -1,6 +1,6 @@
 import React from "react";
 import Header from "../header/header";
-import HomePage from "./home/HomePage";
+import HomePage from "./home/Widgets";
 import Analytic from "./analytics/Analytic";
 
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
